@@ -59,7 +59,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--num_examples',
       type=int,
-      default=20000,
+      default=10,
       help='Number of examples to run validation.'
   )
   parser.add_argument(
